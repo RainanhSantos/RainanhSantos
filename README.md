@@ -1,21 +1,21 @@
-# 💫 About Me:
-Ultimamente tenho trabalhado no Sangue Bom (meu TCC)<br>Atualmente estou estudando NodeJs + Express<br>Uma curiosidade engraçada é que comecei a estudar programação para fazer hack de jogo aos meus 14 anos
+## Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
+## Linguagens e Tecnologias:
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinicius-b-leite/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@bldev) 
+[<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>]()
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=Git" />
+<img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vinicius-B-Leite&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vinicius-B-Leite&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-B-Leite&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## Minhas redes:
+<ul>
+  <li>
+    <img src="https://user-images.githubusercontent.com/30157522/87161827-6cd77380-c29b-11ea-902a-725eeed60745.png" width="18" alt="Linkedin"> 
+    <a href="https://www.linkedin.com/in/rainanh-geovany-93b3b3141/" target="_blank" title="My LinkedIn">LinkedIn</a>
+  </li>
+</ul>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vinicius-B-Leite&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Vinicius-B-Leite&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Minhas estatísticas
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RainanhSantos&hide=jupyter%20notebook&langs_count=20&count_private=true&show_icons=true&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RainanhSantos&show_icons=true)
