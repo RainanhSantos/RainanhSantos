@@ -20,7 +20,7 @@
   </a>
 </div>
 
-## ⭐️ Sobre mim
+## ✨ Sobre mim ✨
 <div align='center'>
   <b>"Tudo o que eu falo é de verdade. Na minha idade, a verdade é a minha liberdade" - Antonio Abujamra</b>
 </div><br>
@@ -78,7 +78,7 @@ Sou acadêmico de <b>Sistemas da Informação</b> pelo Intituto Federal do norte
 </div>
 
 
-## ⭐️ Hard Skills
+## 😎 Hard Skills 😎
 <div align="center">
   <a href="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
   <a href="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
