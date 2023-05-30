@@ -52,7 +52,7 @@ Sou acadêmico de <b>Sistemas da Informação</b> pelo Intituto Federal do norte
 
 <b>Além da programação...</b>
 
-- Experiência consolidada no sistema RP TOTVs DataSul.
+- Experiência consolidada no sistema ERP TOTVs DataSul.
 - Experiência com softwares de gestão de projeto (Project, Planner).
 - Conhecimento em metodologias ageis (Scrum, Lean, Kanban).
 - Adoro organização e sou fissurado em programas que tem esse objetivo.
