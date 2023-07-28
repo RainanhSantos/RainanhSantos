@@ -25,7 +25,7 @@
   <b>"Tudo o que eu falo é de verdade. Na minha idade, a verdade é a minha liberdade" - Antonio Abujamra</b>
 </div><br>
 
-Sou acadêmico de <b>Sistemas da Informação</b> pelo Intituto Federal do norte de Minas Gerais - IFNMG  e atualmente atuo no cargo <b>Analista de Planejamento de Manutenção</b> na LIASA - Ligas de Alumínio. Sou apaixonado por tecnologia e amo programar e estudar. Na área de programação meu foco está sendo em desenvolvimento de aplicações <b>mobile</b> e no meu tempo vago gosto de trabalhar com desenvolvimento utilizando a linguagem de programação <b>Dart</b> no <b>Android Studio/VSCode</b> utilizando o framework <b>Flutter</b>. Também possuo afinidade com <b>HTML, CSS, JavaScript</b> e <b>C, C++, C#</b>.
+Sou acadêmico de Sistemas da Informação pelo Instituto Federal do Norte de Minas Gerais - IFNMG e atualmente atuo no cargo de Analista de Planejamento de Manutenção na LIASA - Ligas de Alumínio. Sou apaixonado por tecnologia, amo programar e estudar. Na área de programação, meu foco está sendo o desenvolvimento de aplicações mobile e, no meu tempo livre, gosto de trabalhar com desenvolvimento utilizando a linguagem de programação Dart no Android Studio/VSCode, usando o framework Flutter. Também possuo afinidade com HTML, CSS, JavaScript, C, C++ e C#.
 <br><br>
 
 <div align="center">
