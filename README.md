@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/RainanhSantos">
-    <img src="Welcome.png" width="500">
+    <img src="ola.png" width="500">
   </a>
 </div>
 <br>
