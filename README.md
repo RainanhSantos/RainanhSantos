@@ -20,7 +20,7 @@
   </a>
 </div>
 
-## ✨ Sobre mim ✨
+## ✨ Sobre ✨
 <div align='center'>
   <b>"Tudo o que eu falo é de verdade. Na minha idade, a verdade é a minha liberdade" - Antonio Abujamra</b>
 </div><br>
