@@ -77,6 +77,11 @@ Sou acadêmico de Sistemas da Informação pelo Instituto Federal do Norte de Mi
   </table>
 </div>
 
+## Estatìsticas:
+<div align="center">
+<a href="https://github.com/rainanhsantos">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rainanhsantos&layout=compa&langs_count=7&theme=dracula"/>
+
 
 ## 😎 Hard Skills 😎
 <div align="center">
