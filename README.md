@@ -3,96 +3,66 @@
     <img src="ola.png" width="500">
   </a>
 </div>
-<br>
-<div align="center">
-  <a href="https://github.com/RainanhSantos" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a>
-  <a href = "mailto:rainanhsantos@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/rainanh-geovany-93b3b3141/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <br>
-  <a href="https://instagram.com/rainanhg" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-</div>
 
-## ✨ Sobre ✨
-<div align='center'>
-  <b>"Tudo o que eu falo é de verdade. Na minha idade, a verdade é a minha liberdade" - Antonio Abujamra</b>
-</div><br>
-
-Sou acadêmico de Sistemas da Informação pelo Instituto Federal do Norte de Minas Gerais - IFNMG e atualmente atuo no cargo de Analista de Planejamento de Manutenção na LIASA - Ligas de Alumínio. Sou apaixonado por tecnologia, amo programar e estudar. Na área de programação, meu foco está sendo o desenvolvimento de aplicações mobile e, no meu tempo livre, gosto de trabalhar com desenvolvimento utilizando a linguagem de programação Dart no Android Studio/VSCode, usando o framework Flutter. Também possuo afinidade com HTML, CSS, JavaScript, C, C++ e C#.
-<br><br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <b>🎓 Sistemas da Informação</b>
-      </td>
-      <td>
-        <b>🧪 Em Formação</b>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px">
-      </td>
-      <td>
-          <img src="https://i.giphy.com/media/13hxeOYjoTWtK8/giphy.gif" width="300px" height="170px">
-      </td>
-    </tr>
-  </table>
-</div>
+# Hi there! I'm Rainanh Geovany
 
 
-<b>Além da programação...</b>
 
-- Experiência consolidada no sistema ERP TOTVs DataSul.
-- Experiência com softwares de gestão de projeto (Project, Planner).
-- Conhecimento em metodologias ageis (Scrum, Lean, Kanban).
-- Adoro organização e sou fissurado em programas que tem esse objetivo.
-- Gosto de ler e super recomendo alguns dos meus livros favoritos que ajudam a pensar fora da caixa. 
-  - <a href='https://www.amazon.com.br/boa-sorte-Alex-Rovira-Celma/dp/8543103258'>A Boa Sorte</a>
-  -  <a href='https://www.amazon.com.br/Como-Fazer-Amigos-Influenciar-Pessoas/dp/8504018024/ref=sr_1_3?crid=3A8PYE1P25QS0&keywords=como+influenciar+pessoas+e+fazer+amigos&qid=1685408984&s=books&sprefix=como+inf%2Cstripbooks%2C289&sr=1-3'>Como Fazer Amigos e Influenciar Pessoas</a>
-  - <a href='https://www.amazon.com.br/Quem-mexeu-no-meu-queijo/dp/8501112062/ref=pd_lpo_sccl_3/133-4942096-6640833?pd_rd_w=OIKNd&content-id=amzn1.sym.036a9a17-ef5c-4c87-bb2c-81a28b5a8e68&pf_rd_p=036a9a17-ef5c-4c87-bb2c-81a28b5a8e68&pf_rd_r=3YCF3KGBV9M2061349JE&pd_rd_wg=2DqmI&pd_rd_r=91dd0e77-c006-4e10-b585-c020568ba1a6&pd_rd_i=8501112062&psc=1'>Quem Mexeu no Meu Queijo?</a>
+Fico feliz que você esteja aqui! Sou um entusiasta de programação e desenvolvedor FullStack, atualmente cursando Sistemas de Informação. Combinando conhecimentos de engenharia elétrica com minha paixão pelo desenvolvimento de software, busco continuamente aprimorar minhas habilidades técnicas para entregar resultados de alta qualidade e impactar positivamente as pessoas com meu trabalho. Estou fortemente envolvido com serviços de desenvolvimento WEB utilizando REACT/NODE.JS. Sou apaixonado por discutir diversidade, equidade e inclusão no mundo da tecnologia !
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo4_250.gif">
-      </td>
-      <td>
-          <img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo5_250.gifv">
-      </td>
-       <td>
-          <img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo6_250.gifv">
-      </td>
-    </tr>
-  </table>
-</div>
+<img align="right" alt="" height="300px" src="https://github.com/RainanhSantos/RainanhSantos/blob/main/ImgPerfil.png">
 
-## Estatìsticas:
-<div align="center">
-<a href="https://github.com/RainanhSantos">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainanhSantos&layout=compact&langs_count=7&theme=dracula"/>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> Em que estou trabalhando
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Woman Student Medium-Dark Skin Tone" width="25" height="25" /> Aprimorando minhas habilidades de desenvolvimento em [Alura](https://alura.com.br/).
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Nail%20Polish%20Medium%20Skin%20Tone.png" alt="Nail Polish Medium Skin Tone" width="30" height="30" /> Tecnologias que estou aprendendo
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> JavaScript, React, MongoDB, e Node.js são algumas das tecnologias no meu radar.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Também interessado em aprender Python, Next.js, C#, Flutter e Kotlin!!!
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Vamos nos conectar!
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:rainanhsantos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rainanh-geovany-93b3b3141/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/rainanhg/)
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Tecnologias que utilizo no meu dia-a-dia
+
+### Linguagens e Técnologias
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cs,dotnet,docker" />
+</a>
+
+### Frameworks e Bibliotecas
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,firebase,mongodb,mysql,postgres,flutter" />
+</a>
+
+### Ferramentas e Plataformas
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,npm,postman" />
+</a>
 
 
-## 😎 Hard Skills 😎
-<div align="center">
-  <a href="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
-  <a href="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
-  <a href="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-  <a href="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"><img src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a href="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-  <a href="	https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" target="_blank"><img src="	https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
-  <a href="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
-  <a href="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
-  <a href="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>
-</div>
+### Meu Propósito
+Meu propósito ecoa a sabedoria de Steve Jobs: “Mantenha-se faminto, mantenha-se tolo.” É essa fome por aprendizado, a audácia de explorar o desconhecido e a paixão por criar mudanças positivas que impulsionam minha jornada na tecnologia. Desafios se tornam degraus, e a inovação é minha bússola. Nesse vasto universo de possibilidades, a curiosidade e os riscos calculados nos levam ao extraordinário. 🚀🌟
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> Meu GitHub Stats
+
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Nível de Engajamento </summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=RainanhSantos&show_icons=true&theme=radical" alt="GitHub Stats">
+  </p>
+</details>
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> GitHub Streak </summary>
+  <p>
+    <img src="https://streak-stats.demolab.com?user=RainanhSantos&theme=radical&hide_border=true&locale=en" alt="GitHub Streak">
+  </p>
+</details>
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Top Linguagens </summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RainanhSantos&size_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
+  </p>
+</details>
+
