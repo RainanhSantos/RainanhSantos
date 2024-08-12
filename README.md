@@ -15,7 +15,7 @@ Fico feliz que você esteja aqui! Sou um entusiasta de programação e desenvolv
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> Em que estou trabalhando
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Woman Student Medium-Dark Skin Tone" width="25" height="25" /> Aprimorando minhas habilidades de desenvolvimento em [Alura](https://alura.com.br/).
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Nail%20Polish%20Medium%20Skin%20Tone.png" alt="Nail Polish Medium Skin Tone" width="30" height="30" /> Tecnologias que estou aprendendo
+### <img width="30" height="30" /> Tecnologias que estou aprendendo
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> JavaScript, React, MongoDB, e Node.js são algumas das tecnologias no meu radar.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Também interessado em aprender Python, Next.js, C#, Flutter e Kotlin!!!
 
