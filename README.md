@@ -4,36 +4,36 @@
   </a>
 </div>
 
-# Hi there! I'm Rainanh Geovany
+# Ei!
 
 
 
-Fico feliz que você esteja aqui! Sou um entusiasta de programação e desenvolvedor FullStack, atualmente cursando Sistemas de Informação. Combinando conhecimentos de engenharia elétrica com minha paixão pelo desenvolvimento de software, busco continuamente aprimorar minhas habilidades técnicas para entregar resultados de alta qualidade e impactar positivamente as pessoas com meu trabalho. Estou fortemente envolvido com serviços de desenvolvimento WEB utilizando REACT/NODE.JS. Sou apaixonado por discutir diversidade, equidade e inclusão no mundo da tecnologia !
+Sou Rainanh Geovany, desenvolvedor mobile apaixonado por criar soluções inteligentes e intuitivas. Trabalho com as linguagens Dart e Kotlin, utilizando o poderoso framework Flutter para entregar aplicativos modernos e de alta performance.
+Além da minha experiência técnica, possuo conhecimento em metodologias ágeis como Scrum, Kanban e ferramentas como Planner, o que me permite colaborar de forma eficaz em times dinâmicos e orientados a resultados.
+Aqui, você encontrará projetos que refletem minha dedicação à inovação, organização e qualidade no desenvolvimento de software. 🚀
+Sinta-se à vontade para explorar e conectar-se comigo! 😊
 
 <img align="right" alt="" height="300px" src="https://github.com/RainanhSantos/RainanhSantos/blob/main/ImgPerfil.png">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> Em que estou trabalhando
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Woman Student Medium-Dark Skin Tone" width="25" height="25" /> Aprimorando minhas habilidades de desenvolvimento em [Alura](https://alura.com.br/).
-
 ### <img width="30" height="30" /> Tecnologias que estou aprendendo
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> JavaScript, React, MongoDB, e Node.js são algumas das tecnologias no meu radar.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Também interessado em aprender Python, Next.js, C#, Flutter e Kotlin!!!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Também interessado em aprender Python, Next.js e C# !!
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Vamos nos conectar!
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:rainanhsantos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rainanh-geovany-93b3b3141/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/rainanhg/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=0000FF&color:0000FF)](mailto:rainanhsantos@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0000FF&color:0000FF)](https://www.linkedin.com/in/rainanh-geovany-93b3b3141/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0000FF&color:0000FF)](https://www.instagram.com/rainanhg/)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Tecnologias que utilizo no meu dia-a-dia
 
 ### Linguagens e Técnologias
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,cs,dotnet,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,dart,kotlin,mysql,mongodb,firebase" />
 </a>
 
 ### Frameworks e Bibliotecas
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,firebase,mongodb,mysql,postgres,flutter" />
+  <img src="https://skillicons.dev/icons?i=flutter" />
 </a>
 
 ### Ferramentas e Plataformas
