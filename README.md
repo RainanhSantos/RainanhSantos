@@ -17,7 +17,7 @@ Sinta-se à vontade para explorar e conectar-se comigo! 😊
 
 ### <img width="30" height="30" /> Tecnologias que estou aprendendo
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> JavaScript, React, MongoDB, e Node.js são algumas das tecnologias no meu radar.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Também interessado em aprender Python, Next.js e C# !!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Também interessado em aprender Python, progress openedge e me aprofundar na área de IA !!
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Vamos nos conectar!
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=0000FF&color:0000FF)](mailto:rainanhsantos@gmail.com)
